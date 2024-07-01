@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JaromKhepry
+- 👀 I’m interested in Development (Python, Javascript)
+- 🌱 I’m currently learning about Development
+- 💞️ I’m looking to collaborate on Development
